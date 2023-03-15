@@ -1,4 +1,5 @@
 <?php
+///arsort array
 $age=array("asha"=>"22","satabdi"=>"23","samikshya"=>"20");
 asort($age);
 
