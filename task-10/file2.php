@@ -1,11 +1,11 @@
 <?php
-echo "<pre>";
-print_r($_GET);
-echo "</pre>";
+// echo "<pre>";
+// print_r($_GET);
+// echo "</pre>";
 
 
-echo $_GET['name'];
-echo $_GET['pass'];
+// echo $_GET['name'];
+// echo $_GET['pass'];
 
 
 // echo "<pre>";
@@ -15,10 +15,10 @@ echo $_GET['pass'];
 // echo $_POST['name'];
 // echo $_POST['pass'];
 
-// echo "<pre>";
-// print_r($_REQUEST);
-// echo "</pre>";
+echo "<pre>";
+print_r($_REQUEST);
+echo "</pre>";
 
-// echo $_REQUEST['name'];
-// echo $_REQUEST['pass'];
+echo $_REQUEST['name'];
+echo $_REQUEST['pass'];
 ?>
